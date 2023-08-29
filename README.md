@@ -15,3 +15,10 @@
 - Code เราเองอยู่ใน src/
 
 # 3 Clean up
+
+- 3 : Clean up Project - remove unnecessary thing
+- clean up index.js
+- clean up App.js, App.css
+- clean up public/index.html
+- remove unnecessary file
+- restructure folder to app/ component/
